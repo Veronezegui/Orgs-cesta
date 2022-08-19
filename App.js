@@ -6,6 +6,8 @@ import AppLoading from 'expo-app-loading/build/AppLoading';
 
 import Cesta from './src/pages/Cesta';
 
+import mock from './src/mocks/cesta'
+
 export default function App() {
     const [fontsLoaded] = useFonts({
         "MontserratRegular": Montserrat_400Regular,
@@ -14,11 +16,11 @@ export default function App() {
 
     if (!fontsLoaded) {
         <AppLoading />
-    }
+    } 
     return (
         <SafeAreaView>
             <StatusBar />
-            <Cesta />
+            <Cesta {...mock} />
         </SafeAreaView>
   );
 }
