@@ -30,6 +30,7 @@ Orgs cesta - é uma aplicação básica desenvolvida em React Native com Javascr
 
 <p align="center">
 
-  <img alt="Visual" title="#Visual" src="./layout.png" width="800px" style="margin-top: 30px;">
+  <img alt="Visual" title="#Visual" src="./image1.png" width="300px" style="margin-top: 30px;">
+  <img alt="Visual" title="#Visual" src="./image2.png" width="300px" style="margin-top: 30px;">
 
 </p>
