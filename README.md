@@ -22,7 +22,7 @@
 
 ## 💻 Sobre o projeto
 
-Orgs cesta - é uma aplicação básica desenvolvida em React Native e Javascript para aprimorar e desenvolver alguns conceitos do desenvolvimento. Trata-se do layout de um aplicativo de compras num hortifruti.
+Orgs cesta - é uma aplicação básica desenvolvida em React Native com Javascript para aprimorar e desenvolver alguns conceitos do desenvolvimento. Trata-se do layout de um aplicativo de compras num hortifruti.
 
 ---
 
