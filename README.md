@@ -35,6 +35,8 @@ Orgs cesta - é uma aplicação básica desenvolvida em React Native com Javascr
 
 </p>
 
+---
+
 ## 🦸 Autor
 
 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47906992?v=4" width="100px;" alt=""/>
