@@ -34,3 +34,21 @@ Orgs cesta - é uma aplicação básica desenvolvida em React Native com Javascr
   <img alt="Visual" title="#Visual" src="./image2.png" width="300px" style="margin-top: 30px;">
 
 </p>
+
+## 🦸 Autor
+
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47906992?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Guilherme Veroneze</b></sub></a> 🚀
+ <br />
+
+
+---
+
+## 📝 Licença
+
+Este projeto está sob a licença [MIT](./LICENSE).
+
+Feito com muita dedicação por Guilherme Veroneze 👋🏽 [Entre em contato!](https://github.com/Veronezegui)
+
+---
