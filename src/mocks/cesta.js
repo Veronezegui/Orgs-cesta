@@ -8,7 +8,7 @@ import abobora from '../../assets/frutas/Abóbora.png';
 
 const cesta = {
   topo: {
-    titulo: "Detalhe da cesta",
+    titulo: "Detalhes da cesta",
   },
   detalhes: {
     nome: "Cesta de Verduras",
